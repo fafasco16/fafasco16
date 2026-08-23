@@ -1,4 +1,4 @@
-# 展皓
+# FaFa
 
 Materials informatics and research software.
 
