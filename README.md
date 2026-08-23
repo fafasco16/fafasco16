@@ -25,12 +25,13 @@ Projects and collaboration are organized through [@ai4s-fiber](https://github.co
 
 ## Selected public work
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ai4s-fiber&repo=fiber_data_extractor&hide_border=true&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ai4s-fiber&repo=fiber_data_extractor&hide_border=true&theme=default" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ai4s-fiber&repo=fiber_data_extractor&hide_border=true&theme=transparent" alt="Fiber Data Extractor repository card" />
-  </picture>
+### [Fiber Data Extractor](https://github.com/ai4s-fiber/fiber_data_extractor)
+
+开放式本地/私有 Web 工作区，用于从纤维材料文献 PDF 中提取结构化数据。
+
+<p>
+  <img src="https://img.shields.io/github/languages/top/ai4s-fiber/fiber_data_extractor?style=for-the-badge&color=2BBC8A" alt="Top language" />
+  <img src="https://img.shields.io/github/last-commit/ai4s-fiber/fiber_data_extractor?style=for-the-badge&color=2BBC8A" alt="Last commit" />
 </p>
 
 ## Technology
@@ -47,13 +48,24 @@ Projects and collaboration are organized through [@ai4s-fiber](https://github.co
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=fafasco16&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&include_all_commits=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=fafasco16&show_icons=true&hide_border=true&rank_icon=github&theme=default&include_all_commits=true" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fafasco16&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&include_all_commits=true" alt="GitHub statistics" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fafasco16&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fafasco16&theme=github" />
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fafasco16&theme=github" alt="GitHub profile summary" />
   </picture>
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=fafasco16&theme=github-dark-blue&hide_border=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=fafasco16&theme=default&hide_border=true" />
-    <img width="49%" src="https://streak-stats.demolab.com?user=fafasco16&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
+    <img src="https://streak-stats.demolab.com?user=fafasco16&theme=default&hide_border=true" alt="GitHub contribution streak" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=fafasco16&theme=github-compact&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=fafasco16&theme=github-light&hide_border=true" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fafasco16&theme=github-light&hide_border=true" alt="GitHub contribution activity graph" />
   </picture>
 </p>
