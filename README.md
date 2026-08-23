@@ -1,16 +1,25 @@
-## Hi there 👋
+# 展皓
 
-<!--
-**fafasco16/fafasco16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Materials informatics and research software.
 
-Here are some ideas to get you started:
+Projects and collaboration are organized through [@ai4s-fiber](https://github.com/ai4s-fiber).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus
+
+- Structured data extraction from fiber materials literature
+- Reproducible data pipelines for materials research
+- Knowledge graph workflows for research data
+
+## Selected public work
+
+### [Fiber Data Extractor](https://github.com/ai4s-fiber/fiber_data_extractor)
+
+开放式本地/私有 Web 工作区，用于从纤维材料文献 PDF 中提取结构化数据。
+
+`Python` `FastAPI` `PostgreSQL` `React` `TypeScript` `Docker`
+
+## Profile
+
+Donghua University, Shanghai
+
+[ai4s-fiber](https://github.com/ai4s-fiber)
