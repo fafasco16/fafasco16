@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ai4s-fiber"><img src="https://img.shields.io/badge/ai4s--fiber-Organization-2BBC8A?style=for-the-badge&logo=github&logoColor=white" alt="ai4s-fiber organization" /></a>
+  <a href="https://github.com/ai4s-fiber/omnimat"><img src="https://img.shields.io/badge/OmniMat-Private-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="OmniMat private repository" /></a>
   <a href="https://github.com/ai4s-fiber/fiber_data_extractor"><img src="https://img.shields.io/badge/Fiber_Data_Extractor-Public_Project-2BBC8A?style=for-the-badge&logo=python&logoColor=white" alt="Fiber Data Extractor" /></a>
 </p>
 
@@ -27,8 +28,18 @@
   </tr>
 </table>
 
-<h2>Selected public work</h2>
+<h2>Selected work</h2>
 
+<h3><a href="https://github.com/ai4s-fiber/omnimat">OmniMat (材智空间)</a></h3>
+
+<p>Materials-science workbench for reviewable workflows, bounded agents, scientific compute plans, and provenance.</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Repository-Private-555555?style=for-the-badge&logo=github&logoColor=white" alt="Private repository" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
+
+<br />
 <h3><a href="https://github.com/ai4s-fiber/fiber_data_extractor">Fiber Data Extractor</a></h3>
 
 <p>开放式本地/私有 Web 工作区，用于从纤维材料文献 PDF 中提取结构化数据。</p>
